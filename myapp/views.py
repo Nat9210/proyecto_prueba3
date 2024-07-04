@@ -11,3 +11,4 @@ def categoria(request):
 
 def login(request):
     return HttpResponse("registro")
+
